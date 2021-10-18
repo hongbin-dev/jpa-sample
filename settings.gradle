@@ -1,1 +1,6 @@
 rootProject.name = 'jpa-sample'
+include 'domain'
+include 'infrastructure'
+include 'application'
+include 'presentation'
+
